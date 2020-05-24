@@ -1,0 +1,47 @@
+.maincontainer {
+    font-size: 75px;
+    color: rgb(4, 4, 250);
+    font-family: Diplomata;
+    font-weight: bold;
+
+}
+
+.a,
+.b,
+.c,
+.d,
+.e,
+.f {
+    position: absolute;
+}
+
+.e {
+    color: red;
+    left: 18px;
+}
+
+.a {
+    left: 5px;
+}
+
+.b {
+    top: -25px;
+    transform: rotate(45deg);
+    left: 47px;
+}
+
+.c {
+    left: 10px;
+    top: 20px;
+    transform: rotate(250deg);
+}
+
+.d {
+    left: 45px;
+}
+
+.f {
+    top: -43px;
+    left: 58px;
+    transform: rotate(200deg);
+}
